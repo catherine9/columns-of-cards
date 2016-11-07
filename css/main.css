@@ -22,7 +22,7 @@ html {
 img {
   width: 100px;
   float: left;
-  display: inline-block
+  display: inline-block;
 }
 
 h2 {
@@ -35,7 +35,7 @@ h2 {
 }
 
 p {
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
   font-style: normal;
   list-style-type: none;
   text-decoration: none;
@@ -61,7 +61,7 @@ h3 {
   padding: .75em;
 }
 
-.card-3{
+.card-3 {
   float: left;
   width: 25%;
   padding: .75em;
@@ -75,13 +75,13 @@ h3 {
 
 .btn-small {
   background-color: #ccc;
-  font-family: "Open-Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   border-radius: 8px;
   color: #fff;
 }
 
 header {
-  font-family: "Open Sans", sans-serif;
+  font-family: Open Sans, sans-serif;
   font-weight: bold;
   text-align: center;
   color: #333;
