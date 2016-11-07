@@ -47,3 +47,27 @@ h3 {
   color: #333;
   font-size: .675em;
 }
+
+.card-1 {
+  float: left;
+  width: 25%;
+  padding: .75em;
+}
+
+.card-2 {
+  float: left;
+  width: 25%;
+  padding: .75em;
+}
+
+.card-3{
+  float: left;
+  width: 25%;
+  padding: .75em;
+}
+
+.card-4 {
+  float: left;
+  width: 25%;
+  padding: .75em;
+}
