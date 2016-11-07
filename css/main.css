@@ -21,12 +21,12 @@ html {
 img {
   width: 100px;
   float: left;
-  display: inline-block;
+  display: block;
 }
 
 h2 {
   font-family: "Open Sans", sans-serif;
-  font-size: 2rem;
+  font-size: .675em;
   text-decoration: none;
   list-style-type: none;
   font-weight: bold;
@@ -46,30 +46,35 @@ p {
 h3 {
   color: #333;
   font-size: .675em;
+  font-style: italic;
 }
 
 .card-1 {
   float: left;
   width: 25%;
   padding: .75em;
+  margin: auto;
 }
 
 .card-2 {
   float: left;
   width: 25%;
   padding: .75em;
+  margin: auto;
 }
 
 .card-3 {
   float: left;
   width: 25%;
   padding: .75em;
+  margin: auto;
 }
 
 .card-4 {
   float: left;
   width: 25%;
   padding: .75em;
+  margin: auto;
 }
 
 .btn-small {
