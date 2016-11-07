@@ -21,7 +21,7 @@ deliverables: "1 HTML file, 1 CSS file, images"
 - *Text sizes:* `2rem`, `.875rem`
 - *Line height:* `1.5`
 - *Colours:* `#f2f2f2`, `#333`, `#e2e2e2`, `#ccc`, `#aaa`, `#999`
-- *Paddings:* `1.5rem`, `.75rem`
+- *Paddings:* `1.5rem`, `.75em;`
 - *Margins:* `0`, `0 auto 1.5rem`, `0 0 1.5rem`
 - *Image width:* `100px`
 
