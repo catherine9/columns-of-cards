@@ -18,7 +18,7 @@ html {
 
 img {
   width: 100px;
-  float: center;
+  float: middle;
   display: inline-block;
 }
 
@@ -56,7 +56,7 @@ h3 {
   width: 25%;
   padding: .75rem;
   margin: 0;
-  background-color: #999;
+  background-color: #f2f2f2;
 }
 
 .card-2 {
