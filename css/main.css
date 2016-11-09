@@ -32,13 +32,13 @@ h2 {
 }
 
 p {
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   font-style: normal;
   list-style-type: none;
   text-decoration: none;
   margin: 0;
   padding: 0;
-  font-size: .475em;
+  font-size: .575em;
   color: #333;
 }
 
@@ -104,8 +104,4 @@ header {
 
 .btn-small:hover {
   background-color: #f2f2f2;
-}
-
-body {
-  margin: 0 auto 1.5rem;
 }
