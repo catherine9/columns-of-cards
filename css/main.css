@@ -10,7 +10,6 @@ html {
 
 .btn {
   line-height: 1.5;
-  background-color: #999;
   font-family: "Open Sans", sans-serif;
   font-size: 2rem;
   color: #fff;
@@ -19,7 +18,7 @@ html {
 
 img {
   width: 100px;
-  float: left;
+  float: center;
   display: block;
 }
 
@@ -29,7 +28,7 @@ h2 {
   text-decoration: none;
   list-style-type: none;
   font-weight: bold;
-  background-color: #999;
+  color: #333;
 }
 
 p {
@@ -39,41 +38,48 @@ p {
   text-decoration: none;
   margin: 0;
   padding: 0;
-  font-size: .875em;
+  font-size: .575em;
+  color: #333;
 }
 
 h3 {
   color: #333;
-  font-size: .675em;
+  font-size: .575em;
   font-style: italic;
+  font-weight: normal;
+  text-align: left;
 }
 
 .card-1 {
   float: left;
   width: 25%;
   padding: .75em;
-  margin: auto;
+  margin: 0;
+  background-color: #f2f2f2;
 }
 
 .card-2 {
   float: left;
   width: 25%;
   padding: .75em;
-  margin: auto;
+  margin: 0;
+  background-color: #e2e2e2;
 }
 
 .card-3 {
   float: left;
   width: 25%;
   padding: .75em;
-  margin: auto;
+  margin: 0;
+  background-color: #ccc;
 }
 
 .card-4 {
   float: left;
   width: 25%;
   padding: .75em;
-  margin: auto;
+  margin: 0;
+  background-color: #aaa;
 }
 
 .btn-small {
@@ -81,6 +87,7 @@ h3 {
   font-family: "Open Sans", sans-serif;
   border-radius: 8px;
   color: #fff;
+  background-color: #333;
 }
 
 header {
