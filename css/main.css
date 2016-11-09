@@ -89,6 +89,10 @@ h3 {
   border-radius: 8px;
   color: #fff;
   background-color: #333;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding: 0 1.5rem;
 }
 
 header {
@@ -97,4 +101,8 @@ header {
   text-align: center;
   color: #333;
   font-size: 2rem;
+}
+
+.btn-small:hover {
+  background-color: #999;
 }
